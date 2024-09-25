@@ -1,0 +1,40 @@
+A deep learning method for simultaneous denoising and missing wedge reconstruction in cryogenic electron tomography
+
+Effective genome editing with an enhanced ISDra2 TnpB system and deep learning-predicted ωRNAs
+
+Protein interactions in human pathogens revealed through deep learning
+
+Modelling protein complexes with crosslinking mass spectrometry and deep learning
+
+Automated design of multi-target ligands by generative deep learning
+
+Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning
+
+Heat wave attribution assessment using deep learning
+
+A deep-learning algorithm to disentangle self-interacting dark matter and AGN feedback models
+
+An end-to-end deep learning method for mass spectrometry data analysis to reveal disease-specific metabolic profiles
+
+Deep learning large-scale drug discovery and repurposing
+
+A deep learning method that identifies cellular heterogeneity using nanoscale nuclear features
+
+Focal liver lesion diagnosis with deep learning and multistage CT imaging
+
+Physics-informed deep generative learning for quantitative assessment of the retina
+
+Deep learning versus manual morphology-based embryo selection in IVF: a randomized, double-blind noninferiority trial
+
+Loss of plasticity in deep continual learning
+
+Multi-modal deep learning enables efficient and accurate annotation of enzymatic active sites
+
+Deep learning for detecting and characterizing oil and gas well pads in satellite imagery
+
+Accelerating segmentation of fossil CT scans through Deep Learning
+
+Deep mutational scanning and machine learning for the analysis of antimicrobial-peptide features driving membrane selectivity
+
+Machine learning the electric field response of condensed phase systems using perturbed neural network potentials
+
