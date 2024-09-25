@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Array of URLs to scrape
+# 20 articles related to Deep learning (at least that's what I searched for)
 urls = [
     "https://www.nature.com/articles/s41467-024-51438-y",
     "https://www.nature.com/articles/s41592-024-02418-z",
@@ -26,20 +26,20 @@ urls = [
 
 ]
 
-# Loop through each URL
+# do for each urls
 for url in urls:
-    # Send a GET request to the webpage
+    # get the webpage through a GET request
     response = requests.get(url)
 
-    # Check if the request was successful
-    if response.status_code == 200:
-        # Parse the webpage content
-        soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Extract the abstract
-        abstract_section = soup.find('div', {'class': 'c-article-section__content'})
-        if abstract_section:
-            abstract = abstract_section.get_text(strip=True)
+    if response.status_code == 200:
+        # Parse the webpage content using the HTML parser from Beautiful Soup
+        bsoup = BeautifulSoup(response.content, 'html.parser')
+
+        # Extract the abstract from the html
+        abstract = bsoup.find('div', {'class': 'c-article-section__content'})
+        if abstract:
+            abstract = abstract.get_text(strip=True)
             # Append abstract to abstracts.txt
             with open('abstracts.txt', 'a') as abstract_file:
                 # abstract_file.write(f"URL: {url}\n")
@@ -48,13 +48,13 @@ for url in urls:
         else:
             print(f"Abstract not found for {url}")
 
-        # Extract the title and save it to keywords.txt
-        title_section = soup.find('h1', {'class': 'c-article-title'})
-        if title_section:
-            title = title_section.get_text(strip=True)
+        # Extract the title & save it to keywords.txt
+        keywords = bsoup.find('h1', {'class': 'c-article-title'})
+        if keywords:
+            title = keywords.get_text(strip=True)
             # Append title to keywords.txt
             with open('keywords.txt', 'a') as keywords_file:
-                # keywords_file.write(f"URL: {url}\n")
+                # keywords_file.write(f"URL: {url}\n") # in case we need to know where is it coming from
                 keywords_file.write(title + '\n\n')
             print(f"Title saved to keywords.txt for {url}")
         else:
