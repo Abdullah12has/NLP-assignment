@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
+
+
+# I'm using the title of the article not keywords because can't find keywords in nature articles
 # 20 articles related to Deep learning (at least that's what I searched for)
 urls = [
     "https://www.nature.com/articles/s41467-024-51438-y",
