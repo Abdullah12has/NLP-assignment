@@ -9,7 +9,6 @@ with open('abstracts.txt', 'r') as file:
 
 selectedWords = list()
 
-# dic = dict()
 
 for i in range(5):
     selectedWords.append(keywords.split(', ')[i])
