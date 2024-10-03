@@ -1,1 +1,6 @@
+Title: Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning
+URL: https://www.nature.com/articles/s41467-024-52263-z
+Authors: Authors not found.
+
+Abstract:
 Systemic amyloidosis involves the deposition of misfolded proteins in organs/tissues, leading to progressive organ dysfunction and failure. Congo red is the gold-standard chemical stain for visualizing amyloid deposits in tissue, showing birefringence under polarization microscopy. However, Congo red staining is tedious and costly to perform, and prone to false diagnoses due to variations in amyloid amount, staining quality and manual examination of tissue under a polarization microscope. We report virtual birefringence imaging and virtual Congo red staining of label-free human tissue to show that a single neural network can transform autofluorescence images of label-free tissue into brightfield and polarized microscopy images, matching their histochemically stained versions. Blind testing with quantitative metrics and pathologist evaluations on cardiac tissue showed that our virtually stained polarization and brightfield images highlight amyloid patterns in a consistent manner, mitigating challenges due to variations in chemical staining quality and manual imaging processes in the clinical workflow.

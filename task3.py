@@ -60,8 +60,6 @@ def stemkeywords():
     print("Stemmed keywords (with duplicates removed) saved to invertedKeyWords.txt")
 
 
-
-
 def make_inverted_abstract_file():
     # will read all the words from all the files and clean them and then save them in a new abstract inverted file
     stemmer = PorterStemmer()

@@ -1,1 +1,6 @@
+Title: Focal liver lesion diagnosis with deep learning and multistage CT imaging
+URL: https://www.nature.com/articles/s41467-024-51260-6
+Authors: Authors not found.
+
+Abstract:
 Diagnosing liver lesions is crucial for treatment choices and patient outcomes. This study develops an automatic diagnosis system for liver lesions using multiphase enhanced computed tomography (CT). A total of 4039 patients from six data centers are enrolled to develop Liver Lesion Network (LiLNet). LiLNet identifies focal liver lesions, including hepatocellular carcinoma (HCC), intrahepatic cholangiocarcinoma (ICC), metastatic tumors (MET), focal nodular hyperplasia (FNH), hemangioma (HEM), and cysts (CYST). Validated in four external centers and clinically verified in two hospitals, LiLNet achieves an accuracy (ACC) of 94.7% and an area under the curve (AUC) of 97.2% for benign and malignant tumors. For HCC, ICC, and MET, the ACC is 88.7% with an AUC of 95.6%. For FNH, HEM, and CYST, the ACC is 88.6% with an AUC of 95.9%. LiLNet can aid in clinical diagnosis, especially in regions with a shortage of radiologists.

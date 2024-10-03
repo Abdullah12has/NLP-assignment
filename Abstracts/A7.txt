@@ -1,1 +1,6 @@
+Title: Heat wave attribution assessment using deep learning
+URL: https://www.nature.com/articles/s43588-024-00700-w
+Authors: Authors not found.
+
+Abstract:
 Authors and AffiliationsNature Computational Sciencehttps://www.nature.com/natcomputsciFernando ChirigatiAuthorsFernando ChirigatiView author publicationsYou can also search for this author inPubMedGoogle ScholarCorresponding authorCorrespondence toFernando Chirigati.

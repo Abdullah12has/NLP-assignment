@@ -1,1 +1,6 @@
+Title: Physics-informed deep generative learning for quantitative assessment of the retina
+URL: https://www.nature.com/articles/s41467-024-50911-y
+Authors: Authors not found.
+
+Abstract:
 Disruption of retinal vasculature is linked to various diseases, including diabetic retinopathy and macular degeneration, leading to vision loss. We present here a novel algorithmic approach that generates highly realistic digital models of human retinal blood vessels, based on established biophysical principles, including fully-connected arterial and venous trees with a single inlet and outlet. This approach, using physics-informed generative adversarial networks (PI-GAN), enables the segmentation and reconstruction of blood vessel networks with no human input and which out-performs human labelling. Segmentation of DRIVE and STARE retina photograph datasets provided near state-of-the-art vessel segmentation, with training on only a small (n= 100) simulated dataset. Our findings highlight the potential of PI-GAN for accurate retinal vasculature characterization, with implications for improving early disease detection, monitoring disease progression, and improving patient care.

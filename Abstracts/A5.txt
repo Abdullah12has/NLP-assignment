@@ -1,1 +1,6 @@
+Title: Automated design of multi-target ligands by generative deep learning
+URL: https://www.nature.com/articles/s41467-024-52060-8
+Authors: Authors not found.
+
+Abstract:
 Generative deep learning models enable data-driven de novo design of molecules with tailored features. Chemical language models (CLM) trained on string representations of molecules such as SMILES have been successfully employed to design new chemical entities with experimentally confirmed activity on intended targets. Here, we probe the application of CLM to generate multi-target ligands for designed polypharmacology. We capitalize on the ability of CLM to learn from small fine-tuning sets of molecules and successfully bias the model towards designing drug-like molecules with similarity to known ligands of target pairs of interest. Designs obtained from CLM after pooled fine-tuning are predicted active on both proteins of interest and comprise pharmacophore elements of ligands for both targets in one molecule. Synthesis and testing of twelve computationally favored CLM designs for six target pairs reveals modulation of at least one intended protein by all selected designs with up to double-digit nanomolar potency and confirms seven compounds as designed dual ligands. These results corroborate CLM for multi-target de novo design as source of innovation in drug discovery.

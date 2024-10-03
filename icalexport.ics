@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2022112811//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:952026@moodle.oulu.fi
+SUMMARY:Handout 1  Quiz opens
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240909T195008Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240904T124800Z
+DTEND:20240904T124800Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:952039@moodle.oulu.fi
+SUMMARY:Handout 1  Quiz closes
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240909T195008Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240910T124800Z
+DTEND:20240910T124800Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:952027@moodle.oulu.fi
+SUMMARY:Handout 2 Quiz avautuu
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240903T103127Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240912T060000Z
+DTEND:20240912T060000Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:952035@moodle.oulu.fi
+SUMMARY:Laboratory 1 is due
+DESCRIPTION:Hand in of your Python code for Laboratory 1 task.\n\n Preferab
+	ly using Jupyter notebook  But normal Python code is also accepted.  \n\nTh
+	is lab is not assessed and meant to act as introductory material for those 
+	not familiar with the tpic\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240910T063152Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240912T205900Z
+DTEND:20240912T205900Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:952040@moodle.oulu.fi
+SUMMARY:Handout 2 Quiz sulkeutuu
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20240903T103127Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240914T200800Z
+DTEND:20240914T200800Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:947720@moodle.oulu.fi
+SUMMARY:Pre-lecture assignment 2 sulkeutuu
+DESCRIPTION:The General Data Protection Regulation (GDPR) is a piece of leg
+	islation that governs processing of personal data in member countries of th
+	e European Union. Find information about the GDPR from the Web\, e.g. from 
+	this website [1]. Using your sources\, answer the questions.\n\n\n\nLinks:\
+	n------\n[1] https://gdpr-info.eu/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240918T054743Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240919T205900Z
+DTEND:20240919T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:947721@moodle.oulu.fi
+SUMMARY:Exercise 2 part 1: Open data concepts and practice sulkeutuu
+DESCRIPTION:The questions in this part test your knowledge of open data con
+	cepts and your ability to find open datasets online. First\, answer a few g
+	eneral questions about open data. Then\, using the Etsin [1]search engine [
+	1]\, find the open dataset described in the exercise\; you will need to inp
+	ut the uniform resource name (URN) of the dataset to make sure you have fou
+	nd the correct one. The remaining questions in this part can be found in th
+	e metadata and documentation for this dataset. \n\n\n\nLinks:\n------\n[1] 
+	https://etsin.fairdata.fi/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240903T113710Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240919T205900Z
+DTEND:20240919T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:947723@moodle.oulu.fi
+SUMMARY:Pre-lecture assignment 3 sulkeutuu
+DESCRIPTION:Read the following article and answer to the questions.\n\nArti
+	cle: https://www.wired.com/2010/11/1110mars-climate-observer-report/ [1]\n\
+	n\n\nLinks:\n------\n[1] https://www.wired.com/2010/11/1110mars-climate-obs
+	erver-report/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240918T054817Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240919T205900Z
+DTEND:20240919T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:949975@moodle.oulu.fi
+SUMMARY:Exercise 1 documentation: is due
+DESCRIPTION:You can submit the exercise documentation here:\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240924T083333Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240919T210000Z
+DTEND:20240919T210000Z
+CATEGORIES:521042S-3006
+END:VEVENT
+BEGIN:VEVENT
+UID:952030@moodle.oulu.fi
+SUMMARY:Quiz Handout 3 opens
+DESCRIPTION:Quiz related to handout 3\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240919T222929Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240920T020000Z
+DTEND:20240920T020000Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:949977@moodle.oulu.fi
+SUMMARY:Exercise 2 documentation: is due
+DESCRIPTION:You can submit the exercise documentation here:\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240914T112842Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240922T210000Z
+DTEND:20240922T210000Z
+CATEGORIES:521042S-3006
+END:VEVENT
+BEGIN:VEVENT
+UID:947725@moodle.oulu.fi
+SUMMARY:Pre-lecture assignment 4 sulkeutuu
+DESCRIPTION:Go to https://www.google.com/search?q=nurse&source=lnms&tbm=isc
+	h&sa=X&ved=2ahUKEwj2ip3Zn43oAhXGzaQKHe6pBGoQ_AUoAXoECAwQAw&biw=1803&bih=985
+	 [1]\n\nwhere you should see pictures of nurses. Check the first ~50 pictur
+	es and answer to the questions.\n\n\n\nLinks:\n------\n[1] https://www.goog
+	le.com/search?q=nurse&amp\;source=lnms&amp\;tbm=isch&amp\;sa=X&amp\;ved=2ah
+	UKEwj2ip3Zn43oAhXGzaQKHe6pBGoQ_AUoAXoECAwQAw&amp\;biw=1803&amp\;bih=985\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240910T064657Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240923T205900Z
+DTEND:20240923T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:952041@moodle.oulu.fi
+SUMMARY:Quiz Handout 3 closes
+DESCRIPTION:Quiz related to handout 3\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240919T222929Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240924T200000Z
+DTEND:20240924T200000Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:963708@moodle.oulu.fi
+SUMMARY:Laboratory 2 -Preparatory Assignment 2024 is due
+DESCRIPTION:Laboratory 2 Session.. Preparatory\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240925T135209Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240926T150000Z
+DTEND:20240926T150000Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:947724@moodle.oulu.fi
+SUMMARY:Exercise 3 sulkeutuu
+DESCRIPTION:Exercise3: Answer the following questions.\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240910T064527Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240926T205900Z
+DTEND:20240926T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:949979@moodle.oulu.fi
+SUMMARY:Exercise 3 documentation: is due
+DESCRIPTION:You can submit the exercise documentation here:\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240910T091111Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240929T210000Z
+DTEND:20240929T210000Z
+CATEGORIES:521042S-3006
+END:VEVENT
+BEGIN:VEVENT
+UID:952031@moodle.oulu.fi
+SUMMARY:Quiz Handout 4 avautuu
+DESCRIPTION:Quiz for handout 4\n
+CLASS:PUBLIC
+LAST-MODIFIED:20240903T103127Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240930T090200Z
+DTEND:20240930T090200Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:952037@moodle.oulu.fi
+SUMMARY:Laboratory 2 -Live 2024 is due
+DESCRIPTION:See Task description in hard copy material provided to you\n\nS
+	ubmit only your Jupiter Notebook showing your code and working out\, initia
+	l result\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240925T135506Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240930T130000Z
+DTEND:20240930T130000Z
+CATEGORIES:521158S-3005
+END:VEVENT
+BEGIN:VEVENT
+UID:947722@moodle.oulu.fi
+SUMMARY:Exercise 2 part 2: Data management using relational databases sulke
+	utuu
+	
+DESCRIPTION:The questions in this part test your ability to formulate and i
+	nterpret SQL queries. Some of the questions are multiple-choice\, others re
+	quire you to type in your answers. The queries refer to the activity monito
+	ring database discussed in the lecture\, so keep the lecture slides handy. 
+	Use an SQL tutorial or reference (e.g. from w3schools.com [1]) of your choi
+	ce to supplement the lecture material.\n\nIn the questions where you need t
+	o type in query fragments\, the answers are case insensitive\, so it does n
+	ot matter whether you type e.g. WHERE or WHERE. However\, do not add any un
+	necessary whitespace\, and only qualify column names with table names when 
+	there is some ambiguity – for example\, do not type PERSON.PERSONID if just
+	 PERSONID is enough in the context where it’s used.\n\nBefore attempting th
+	is exercise\, we recommend that you take a look at the supplementary materi
+	al found in the exercise 2 documents folder and try to complete the tasks g
+	iven there. This is NOT A REQUIREMENT\, but will help you complete the exer
+	cise successfully. To do the supplementary tasks\, you need access to a com
+	puter that has a MySQL client application installed\; you can download the 
+	free community edition of the MySQL Shell from the MySQL website [2]. If yo
+	u can't get access to MySQL\, or just don't want to bother\, you may procee
+	d directly to the exercise questions.\n\nIf you don't mind a bit of tweakin
+	g and you have access to a MySQL server installed somewhere else (e.g. on y
+	our own computer)\, it is also possible to set up the database there. If yo
+	u want to do that\, download the file tdm-mysqldump.zip from the exercise 2
+	 documents folder\, unpack the archive and import the table definitions and
+	 data from the SQL dumpfiles. Refer to MySQL documentation on how to import
+	 data from dumpfiles\; you can use e.g. the MySQL Workbench to do this.\n\n
+	\n\nLinks:\n------\n[1] https://www.w3schools.com/sql/\n[2] https://dev.mys
+	ql.com/downloads/shell/\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240920T114615Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240930T205900Z
+DTEND:20240930T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+BEGIN:VEVENT
+UID:947727@moodle.oulu.fi
+SUMMARY:Pre-lecture assignment 5 sulkeutuu
+DESCRIPTION:Read Introduction\, Discussion\, and Conclusions sections from 
+	the article "How handling missing data may impact conclusions": A compariso
+	n of six different imputation methods for categorical questionnaire data (h
+	ttps://journals.sagepub.com/doi/full/10.1177/2050312118822912). Based on th
+	e article\, answer the following questions.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20240910T064827Z
+DTSTAMP:20240928T072812Z
+DTSTART:20240930T205900Z
+DTEND:20240930T205900Z
+CATEGORIES:521156S-3010
+END:VEVENT
+END:VCALENDAR
